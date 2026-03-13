@@ -1,4 +1,4 @@
-# Financial-statement-analysis
+# Financial statement analysis
 This repository contains cleaned, structured, and documented financial statements used across my academic journey.
   
 Each dataset includes:  
